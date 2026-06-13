@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-torres&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
@@ -64,7 +64,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   <a href="https://github.com/samuel-torres/mind-map-ai">
@@ -77,7 +77,7 @@
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samuel-torres&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8"/>
@@ -85,7 +85,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-torres&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=06b6d4&area=true&hide_border=true"/>
