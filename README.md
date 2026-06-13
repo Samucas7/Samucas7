@@ -16,8 +16,6 @@
 
 <br/>
 
----
-
 ## Tech Stack
 
 **Languages**
@@ -54,8 +52,6 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
----
 
 <div align="center">
   <img src="./languages.svg" alt="Languages"/>
