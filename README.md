@@ -1,6 +1,6 @@
 # README<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hey%20there!%20I'm%20Samuel%20Torres%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Builder%20%7C%20Always%20learning&descAlignY=58&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hey%20there!%20I'm%20Samuel%20Torres%20&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Learning%20%20%7C%20Coding%20%7C%20Building&descAlignY=58&descColor=c4b5fd" width="100%"/>
 </div>
 
 <!-- Social badges -->
