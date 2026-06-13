@@ -18,6 +18,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="./languages.svg" alt="Languages"/>
+</div>
+
 ---
 
 ## Tech Stack
