@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hey%20there!%20I'm%20Samuel%20Torres%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Learning%20%7C%20Coding%20%7C%20Building&descAlignY=58&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hey%20there!%20I'm%20Samuel%20Torres%20&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Learning%20%7C%20Coding%20%7C%20Building&descAlignY=58&descColor=c4b5fd" width="100%"/>
 </div>
 
 <div align="center">
@@ -14,6 +14,7 @@
   </a>
 </div>
 
+<br/>
 <br/>
 
 **Languages**
@@ -30,6 +31,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
+<br/>
+
 **Frameworks & Libraries**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -38,6 +41,8 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+
+<br/>
 
 **Databases & Tools**
 
@@ -52,11 +57,14 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 <br/>
+<br/>
 
 <div align="center">
   <img src="./languages.svg" alt="Languages"/>
 </div>
 
+<br/>
+<br/>
 <br/>
 
 <div align="center">
