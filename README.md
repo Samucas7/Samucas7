@@ -63,10 +63,6 @@
   <img src="./languages.svg" alt="Languages"/>
 </div>
 
-<br/>
-<br/>
-<br/>
-
 <div align="center">
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%"/>
