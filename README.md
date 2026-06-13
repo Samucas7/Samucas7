@@ -70,35 +70,6 @@ const samuel = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samu7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samu7&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samu7&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=06b6d4&currStreakLabel=c4b5fd" width="60%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samu7&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samu7&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=06b6d4&area=true&hide_border=true"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=samu7&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
   <br/><br/>
