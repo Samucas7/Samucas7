@@ -18,10 +18,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="./languages.svg" alt="Languages"/>
-</div>
-
 ---
 
 ## Tech Stack
@@ -62,6 +58,10 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
+
+<div align="center">
+  <img src="./languages.svg" alt="Languages"/>
+</div>
 
 <div align="center">
   <br/><br/>
