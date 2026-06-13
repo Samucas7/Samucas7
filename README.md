@@ -18,17 +18,45 @@
 
 <br/>
 
-<!-- About me -->
-```ts
-const samuel = {
-  role:      "Computer Science Student 🎓",
-  location:  "Portugal 🇵🇹",
-  languages: ["🇵🇹 Portuguese", "🇬🇧 English (Advanced)", "🇩🇪 German (Basic)", "🇫🇷 French (Basic)"],
-  learning:  ["System Design", "Mobile Development", "Game Dev"],
-  openTo:    ["collaborations", "open source", "internships"],
-  funFact:   "I build with everything from web to Unreal Engine 🎮"
-};
-```
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap');
+  .wrap { padding: 1rem 0; font-family: 'Space Grotesk', sans-serif; }
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 580px; }
+  .card { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: 14px; padding: 16px 14px; text-align: center; }
+  .flag { font-size: 32px; margin-bottom: 8px; }
+  .lang { font-size: 13px; font-weight: 500; color: var(--color-text-primary); margin-bottom: 6px; }
+  .level-label { font-size: 10px; color: var(--color-text-secondary); margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .bar-track { height: 4px; background: var(--color-border-tertiary); border-radius: 4px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 4px; }
+</style>
+<div class="wrap">
+  <div class="grid">
+    <div class="card">
+      <div class="flag">🇵🇹</div>
+      <div class="lang">Portuguese</div>
+      <div class="level-label">Native</div>
+      <div class="bar-track"><div class="bar-fill" style="width:100%; background:#7c3aed;"></div></div>
+    </div>
+    <div class="card">
+      <div class="flag">🇬🇧</div>
+      <div class="lang">English</div>
+      <div class="level-label">Advanced</div>
+      <div class="bar-track"><div class="bar-fill" style="width:80%; background:#06b6d4;"></div></div>
+    </div>
+    <div class="card">
+      <div class="flag">🇩🇪</div>
+      <div class="lang">German</div>
+      <div class="level-label">Intermediate</div>
+      <div class="bar-track"><div class="bar-fill" style="width:40%; background:#f59e0b;"></div></div>
+    </div>
+    <div class="card">
+      <div class="flag">🇫🇷</div>
+      <div class="lang">French</div>
+      <div class="level-label">Basic</div>
+      <div class="bar-track"><div class="bar-fill" style="width:20%; background:#10b981;"></div></div>
+    </div>
+  </div>
+</div>
 
 <br/>
 
