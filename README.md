@@ -34,7 +34,7 @@ const samuel = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
