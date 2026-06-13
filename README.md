@@ -21,20 +21,6 @@
 
 <br/>
 
-<!-- About me -->
-```ts
-const samuel = {
-  role:      "Computer Science Student",
-  location:  "Portugal 🇵🇹",
-  learning:  ["TypeScript", "System Design", "Cloud Architecture"],
-  building:  "cool stuff one commit at a time",
-  openTo:    ["collaborations", "open source", "internships"],
-  funFact:   "I debug with console.log and I'm not ashamed 🙃"
-};
-```
-
-<br/>
-
 ---
 
 ## 🛠️ Tech Stack
