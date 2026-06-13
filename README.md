@@ -5,17 +5,11 @@
 
 <!-- Social badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/samuel-torres">
+  <a href="https://pt.linkedin.com/in/samuel-torres-samu7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/samuel-torres">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:samuel@email.com">
+  <a href="mailto:samuelribeirotorres7@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://samuel-torres.dev">
-    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
 
