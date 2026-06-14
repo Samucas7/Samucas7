@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hey%20there!%20I'm%20Samuel%20Torres%20&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Learning%20%7C%20Coding%20%7C%20Building&descAlignY=58&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=de4405&height=200&section=header&text=Hey%20there!%20I'm%20Samuel%20Torres%20&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Learning%20%7C%20Coding%20%7C%20Building&descAlignY=58&descColor=c4b5fd" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://pt.linkedin.com/in/samuel-torres-samu7">
+  <a href="https://pt.linkedin.com/in/samuel-torres-samu7">©
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:samuelribeirotorres7@gmail.com">
@@ -65,5 +65,5 @@
 
 <div align="center">
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=de4405&height=100&section=footer" width="100%"/>
 </div>
