@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=de4405&height=200&section=header&text=Hey%20there!%20I'm%20Samuel%20Torres%20&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Learning%20%7C%20Coding%20%7C%20Building&descAlignY=58&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fd660b&height=200&section=header&text=Hey%20there!%20I'm%20Samuel%20Torres%20&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Learning%20%7C%20Coding%20%7C%20Building&descAlignY=58&descColor=c4b5fd" width="100%"/>
 </div>
 
 <div align="center">
@@ -65,5 +65,5 @@
 
 <div align="center">
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=de4405&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fd660b&height=100&section=footer" width="100%"/>
 </div>
