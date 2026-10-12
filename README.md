@@ -9,9 +9,6 @@
   <a href="mailto:samuelribeirotorres7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=samu7&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
-  </a>
 </div>
 
 <br/>
@@ -58,10 +55,6 @@
 
 <br/>
 <br/>
-
-<div align="center">
-  <img src="./languages.svg" alt="Languages"/>
-</div>
 
 <div align="center">
   <br/><br/>
